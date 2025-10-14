@@ -1,10 +1,35 @@
-
 body{
-background-color: rgb(32, 32, 58);
-font-family: Arial, Helvetica, sans-serif ;color: #ffff;
+background-color: rgb(0, 0, 0);
 text-align: center;
-
-
+}
+p{
+ font-size:larger;
 
 }
 
+
+h1{
+    color: rgb(0, 83, 0);
+    font: Arial normal ;
+}
+
+section{
+background-color: rgb(172, 172, 172);
+margin: auto;
+padding: 70px;
+width: 800px;
+border-radius: 10px;
+box-shadow: 4px 4px 10px;
+text-align: center;
+
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+footer{
+text-align: center;
+
+}
